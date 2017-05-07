@@ -3,12 +3,12 @@
 %include	/usr/lib/rpm/macros.php
 Summary:	Simple PHP Wrapper for Twitter API v1.1 calls
 Name:		php-%{pkgname}
-Version:	1.0.4
+Version:	1.0.5
 Release:	1
 License:	MIT
 Group:		Development/Languages/PHP
 Source0:	https://github.com/J7mbo/twitter-api-php/archive/%{version}/%{name}-%{version}.tar.gz
-# Source0-md5:	a55eecf81817a85c3966a44d0fd6e73f
+# Source0-md5:	2233db5ea90b598840f9f0f969893f77
 URL:		https://github.com/J7mbo/twitter-api-php
 BuildRequires:	rpm-php-pearprov >= 4.4.2-11
 BuildRequires:	rpmbuild(macros) >= 1.461
