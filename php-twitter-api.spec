@@ -1,6 +1,5 @@
 %define		pkgname	twitter-api
 %define		php_min_version 5.1.2
-%include	/usr/lib/rpm/macros.php
 Summary:	Simple PHP Wrapper for Twitter API v1.1 calls
 Name:		php-%{pkgname}
 Version:	1.0.5
